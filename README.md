@@ -8,3 +8,5 @@
 #4 Randomforest Classification 
 
 #5 K-fold cross validation
+
+#6 K means clustering and elbow point
